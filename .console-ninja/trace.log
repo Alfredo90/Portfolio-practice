@@ -1,0 +1,28 @@
+22:48:16.219 info extension stopping host
+22:48:16.690 info extension host process output: port:[64149]
+22:48:16.669 info host ------------ starting ------------
+22:48:16.690 info extension 
+22:48:16.704 info host client connected: extension { address: '::', family: 'IPv6', port: 64149 }
+22:48:16.857 info host worker Starting Host Worker...
+22:48:16.863 info host starting host: {"extensionFolder":"c:\\Users\\Da Plug\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.118","runtimeHookFile":"c:\\Users\\Da Plug\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.118\\out\\runtimeHook\\tracer.js","globalErrorHandlerFile":"c:\\Users\\Da Plug\\.vscode\\extensions\\wallabyjs.console-ninja-0.0.118\\out\\runtimeHook\\errorHandler.js","filesToInstrument":[{"path":"C:\\Users\\Da Plug\\vite-projects\\jamming\\src\\hooks\\GetSpotifyUser.jsx","reason":"search"},{"path":"C:\\Users\\Da Plug\\vite-projects\\jamming\\src\\hooks\\GetSpotifyPlaylist.jsx","reason":"search"},{"path":"C:\\Users\\Da Plug\\vite-projects\\jamming\\src\\components\\Playlist\\Playlist.jsx","reason":"search"},{"path":"c:\\Users\\Da Plug\\vite-projects\\jamming\\src\\App.jsx","reason":"open"},{"path":"c:\\Users\\Da Plug\\vite-projects\\jamming\\src\\hooks\\GetSpotifyPlaylist.jsx","reason":"open"},{"path":"c:\\Users\\Da Plug\\vite-projects\\jamming\\src\\hooks\\getSpotifyUser.jsx","reason":"open"}],"debug":false,"config":{"dateTimeFormat":"hh:mm:ss.SSS","installBinToPath":true,"openLinksInEditor":true,"maxLogViewerEntries":15000,"fontSize":10,"outputMode":"In View","captureFunctions":true,"searchUrl":"https://www.google.com/search?q={query}","enableProFeatures":true,"toolsToAutoPatch":["vite","jest","webpack","next.js","cypress","http-server","serve","nuxt","remix","qwik","hydrogen","serverless","live-server","live-preview"],"showErrors":true,"showLogsOnlyFromOpenedFiles":false,"showLogsFromLogPointsOnly":false},"allowedHosts":["localhost","127.0.0.1","example.cypress.io","Alfredo","192.168.1.89"],"host":"127.0.0.1"}
+22:48:16.884 info host starting tools discovery and integration
+22:48:16.888 info host installing C:\Users\Da Plug\.console-ninja\.bin\loader.js
+22:48:16.890 info host installing C:\Users\Da Plug\.console-ninja\.bin\console-ninja.ps1
+22:48:16.891 info host installing C:\Users\Da Plug\.console-ninja\.bin\console-ninja.cmd
+22:48:16.892 info host looking for tools to patch
+22:48:17.001 info host found 1 tool file(s) to patch
+22:48:17.004 info host patching C:\Users\Da Plug\vite-projects\jamming\node_modules\vite\bin\vite.js
+22:48:17.019 info host completed tools discovery and integration
+22:48:41.968 info buildHook-14644 installing build hook for vite at C:\Users\Da Plug\vite-projects\jamming, node v19.7.0
+22:48:41.976 info buildHook-14644 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, nuxt, remix, qwik, hydrogen, serverless, live-server, live-preview, node
+22:48:41.976 info buildHook-14644 running tools: vite
+22:48:41.979 info buildHook-14644 installing fs interceptor
+22:48:42.567 info host client connected: buildHook { address: '::', family: 'IPv6', port: 64149 }
+22:48:42.571 info buildHook-14644 allowed tools: vite, jest, webpack, next.js, cypress, http-server, serve, nuxt, remix, qwik, hydrogen, serverless, live-server, live-preview, node
+22:48:42.571 info buildHook-14644 running tools: vite
+22:48:43.014 info buildHook-14644 file processed (stat): 0 log points, error handler: true
+22:48:43.053 info buildHook-14644 file processed (stat): 0 log points, error handler: false
+22:48:43.656 info buildHook-14644 file processed (stat): 0 log points, error handler: false
+22:48:43.658 info buildHook-14644 file processed (stat): 0 log points, error handler: false
+22:48:43.672 info buildHook-14644 file processed (stat): 2 log points, error handler: false
+22:48:45.614 info host client connected: runtimeHook { address: '::', family: 'IPv6', port: 64149 }
